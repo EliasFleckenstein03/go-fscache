@@ -1,7 +1,7 @@
 package fscache_test
 
 import (
-	"github.com/Kovensky/go-fscache"
+	"github.com/EliasFleckenstein03/go-fscache"
 	"math/rand"
 	"testing"
 	"time"
